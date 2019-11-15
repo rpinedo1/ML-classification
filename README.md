@@ -1,6 +1,6 @@
 # ML-classification
 
-Chapter 2 helpful links from Pthon MAchine Learning 2nd Ed. 
+Chapter 2 helpful links from Python Machine Learning 2nd Ed. 
 https://github.com/rasbt/python-machine-learning-book-2nd-edition/tree/master/code
 
 Linear Algebra Review and Reference:
